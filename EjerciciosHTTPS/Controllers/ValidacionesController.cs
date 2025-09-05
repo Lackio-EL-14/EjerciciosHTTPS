@@ -1,7 +1,7 @@
 ﻿using EjerciciosHttps.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-//Ejercicios 21, 22 , 23 ,24 y 25 - Manejo de errores y excepciones en ASP.NET Core
+//Ejercicios 21, 22 , 23 ,24  - Manejo de errores y excepciones en ASP.NET Core
 namespace EjerciciosHTTPS.Controllers
 {
     [Route("api/[controller]")]
@@ -35,6 +35,15 @@ namespace EjerciciosHTTPS.Controllers
         public IActionResult LanzarError()
         {
             throw new MiExcepcion("Este es un error personalizado lanzado por MiExcepcion");
+        }
+
+        [HttpPost("validar-usuario")]
+        public IActionResult ValidarUsuario([FromBody] Usuario usuario)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            return Ok(new { mensaje = "Usuario válido", usuario });
         }
 
 

@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\Visual studio morado\\EjerciciosHTTPS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\controllers\\coleccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\controllers\\coleccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Visual studio morado\\EjerciciosHTTPS\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\controllers\\validacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\controllers\\validacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\modelos\\miexceptcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\modelos\\miexceptcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\controllers\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\controllers\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\modelos\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\modelos\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|d:\\visual studio morado\\ejercicioshttps\\ejercicioshttps\\controllers\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1E7B0C-A669-44A5-8816-0EA1217C6FAB}|EjerciciosHTTPS\\EjerciciosHTTPS.csproj|solutionrelative:ejercicioshttps\\controllers\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +47,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ColeccionesController.cs",
+              "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Controllers\\ColeccionesController.cs",
+              "RelativeDocumentMoniker": "EjerciciosHTTPS\\Controllers\\ColeccionesController.cs",
+              "ToolTip": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Controllers\\ColeccionesController.cs",
+              "RelativeToolTip": "EjerciciosHTTPS\\Controllers\\ColeccionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:49:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Visual studio morado\\EjerciciosHTTPS\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-05T19:23:16.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiExceptcion.cs",
+              "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Modelos\\MiExceptcion.cs",
+              "RelativeDocumentMoniker": "EjerciciosHTTPS\\Modelos\\MiExceptcion.cs",
+              "ToolTip": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Modelos\\MiExceptcion.cs",
+              "RelativeToolTip": "EjerciciosHTTPS\\Modelos\\MiExceptcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:59:54.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "EjerciciosHTTPS\\Modelos\\Usuario.cs",
+              "ToolTip": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "EjerciciosHTTPS\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:58:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidacionesController.cs",
+              "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Controllers\\ValidacionesController.cs",
+              "RelativeDocumentMoniker": "EjerciciosHTTPS\\Controllers\\ValidacionesController.cs",
+              "ToolTip": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Controllers\\ValidacionesController.cs",
+              "RelativeToolTip": "EjerciciosHTTPS\\Controllers\\ValidacionesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:57:59.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Program.cs",
               "RelativeDocumentMoniker": "EjerciciosHTTPS\\Program.cs",
@@ -39,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CuentaBancaria.cs",
               "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Modelos\\CuentaBancaria.cs",
               "RelativeDocumentMoniker": "EjerciciosHTTPS\\Modelos\\CuentaBancaria.cs",
@@ -52,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CuentaBancaria.cs",
               "DocumentMoniker": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Controllers\\CuentaBancaria.cs",
               "RelativeDocumentMoniker": "EjerciciosHTTPS\\Controllers\\CuentaBancaria.cs",
-              "ToolTip": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Controllers\\CuentaBancaria.cs*",
-              "RelativeToolTip": "EjerciciosHTTPS\\Controllers\\CuentaBancaria.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Visual studio morado\\EjerciciosHTTPS\\EjerciciosHTTPS\\Controllers\\CuentaBancaria.cs",
+              "RelativeToolTip": "EjerciciosHTTPS\\Controllers\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T18:43:20.4Z",
               "EditorCaption": ""
